@@ -1,2 +1,2 @@
-# Pemodel-an-Simulasi-dan-Optimasi
+# Pemodelan-Simulasi-dan-Optimasi
 Semester 3
